@@ -28,11 +28,6 @@ I have a strong foundation in hardware and software co-design, and I enjoy worki
 - **Real-Time Operating Systems (RTOS):** Interested in building real-time applications.
 - **Embedded Linux:** Diving into embedded Linux development.
 
-## 📈 Experience
-- **Silicon Validation Engineer - Microchip Technology**
-  - Involved in validating silicon products and system testing.
-  - Experience in Python-based automated test frameworks and LabVIEW.
-
 ## 🏆 Projects
 Here are some highlighted projects that showcase my skills:
 1. **ThermoStream® (TS) System Test Automation**
