@@ -43,7 +43,7 @@ Here are some highlighted projects that showcase my skills:
    - Developed firmware for ARM Cortex-M microcontrollers, focusing on low-power applications.
 
 ## 📬 Let's Connect
-- **Email:** balamuralimani@example.com
+- **Email:** balainvlsi@gmail.com
 - **LinkedIn:** [Balamurali Mani](https://www.linkedin.com/in/balamurali-mani-1243b7170/)
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
