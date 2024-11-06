@@ -19,7 +19,7 @@ I have a strong foundation in hardware and software co-design, and I enjoy worki
 - **Interface Protocols:** UART, I2C, SPI, CAN
 - **Tools & Platforms:** 
   - **Silicon Validation:** Experience with lab instruments and automated test setups
-  - **Embedded Development:** Keil, MPLAB, STM32CubeIDE
+  - **Embedded Development:** Keil, MPLAB, STM32CubeIDE & Pycharm
   - **Scripting & Automation:** Python scripting for automation and data processing
   - **PCB Design & VLSI Testing:** Altium
 
