@@ -1,71 +1,79 @@
 # Balamurali Mani
 **Silicon Validation Engineer | Embedded Systems Developer | Embedded C Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/balamurali-mani-1243b7170/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/balamurali-mani-1243b7170/)
 [![GitHub Followers](https://img.shields.io/github/followers/Balamuralimani?style=social)](https://github.com/Balamuralimani)
 
+---
+
 ## 👨‍💻 About Me
-Hello! I am Balamurali Mani, a passionate Silicon Validation Engineer with a deep interest in embedded systems development. I specialize in:
+Hello! I'm **Balamurali Mani**, a dedicated Silicon Validation Engineer with a strong foundation in **Embedded Systems**. My expertise spans across:
 - **Silicon Validation and Testing**
 - **Embedded Systems Programming (C, Python, LabVIEW)**
 - **ARM Architecture (ARMv7-A, ARM Cortex-M)**
 - **Interface Protocols (I2C, SPI, UART, etc.)**
 
-I thrive in projects combining low-level programming with robust testing to ensure high-performance outcomes.
-
-## 🛠️ Skills & Technologies
-- **Programming Languages:** Embedded C, Python, LabVIEW
-- **Microcontroller Architectures:** ARM Cortex (M-series, A-series), AVR
-- **Interface Protocols:** UART, I2C, SPI, CAN
-- **Tools & Platforms:** 
-  - **Silicon Validation:** Experienced with lab instruments and automated test setups
-  - **Embedded Development:** Keil, MPLAB, STM32CubeIDE & Pycharm
-  - **Scripting & Automation:** Python scripting for automation and data processing
-  - **PCB Design & VLSI Testing:** Altium
-
-## 📚 Learning & Interests
-- **Ethernet Switches:** Exploring network protocol concepts from beginner to advanced.
-- **Real-Time Operating Systems (RTOS):** Building applications for real-time systems.
-- **Embedded Linux:** Deepening my understanding of embedded Linux development.
+I’m driven by projects that bring hardware and software together, ensuring high performance through rigorous testing.
 
 ---
 
-## 📘 Featured Tutorial: Embedded C Programming
-Are you new to embedded systems? Check out my [Embedded C Tutorial Repository](https://github.com/Balamuralimani/Embedded_C_Tutorial)! 🚀
+## 🛠️ Skills & Technologies
+![Embedded C](https://img.shields.io/badge/Embedded%20C-Expert-brightgreen?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=flat-square&logo=python)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-Experienced-yellow?style=flat-square&logo=labview)
+![ARM Cortex](https://img.shields.io/badge/ARM%20Cortex-Familiar-blueviolet?style=flat-square)
 
-This tutorial is designed for beginners and intermediate learners, covering essential concepts, coding techniques, and real-world examples to help you build a solid foundation in Embedded C.
+- **Programming Languages:** Embedded C, Python, LabVIEW
+- **Microcontroller Architectures:** ARM Cortex (M-series, A-series), AVR
+- **Interface Protocols:** UART, I2C, SPI, CAN
+- **Tools & Platforms:** Keil, MPLAB, STM32CubeIDE, PyCharm
+- **Validation & Testing:** Lab instruments and automated test setups
+- **PCB Design & VLSI Testing:** Altium
 
-![Checkout the Embedded Tutorial here ->](https://img.shields.io/badge/Embedded%20C%20Tutorial-Learn%20Fundamentals%20to%20Advanced-blue?style=for-the-badge&logo=c&logoColor=white)
+---
 
-### Course Highlights
-- **Introduction to Embedded C**: Understand the language's fundamentals and its role in embedded systems.
-- **Microcontroller Programming Basics**: Dive into essential concepts of working with microcontrollers.
-- **Hands-On Examples**: Practice with real-world coding exercises and projects.
-- **Advanced Topics**: Explore advanced techniques to write optimized and reliable embedded code.
+## 📚 Featured Course: Embedded C Tutorial
 
-This tutorial is an excellent resource for anyone looking to kickstart or deepen their journey in embedded systems!
+### 🚀 Start Your Embedded C Journey
+![Embedded C Tutorial Banner](https://img.shields.io/badge/Embedded%20C%20Tutorial-Learn%20Step%20by%20Step-blue?style=for-the-badge&logo=c&logoColor=white)
+
+Looking to kickstart or deepen your skills in Embedded C? Dive into my **[Embedded C Tutorial](https://github.com/Balamuralimani/Embedded_C_Tutorial)**! This tutorial is perfect for beginners and intermediates looking to build a solid foundation in embedded systems programming.
+
+### 📈 Course Highlights
+- **Basics to Advanced**: Progress from fundamental concepts to complex techniques in Embedded C.
+- **Microcontroller Programming**: Learn to work with microcontrollers, critical in embedded systems.
+- **Hands-On Projects**: Apply what you learn through practical coding exercises and real-world examples.
+- **Optimized Coding Practices**: Explore techniques for writing efficient, reliable code in resource-constrained environments.
+
+### 👀 Why This Tutorial?
+My goal is to provide easy-to-understand content, practical examples, and insights that can help anyone—from students to working professionals—gain confidence in Embedded C.
 
 ---
 
 ## 🏆 Projects
-Here are some projects that highlight my skills and expertise:
+
+### 🛠 Featured Projects
 1. **ThermoStream® (TS) System Test Automation**
    - Automated temperature cycling tests for silicon validation using Python.
 
 2. **Host and Port Statistics Analysis Tool**
-   - Developed a Python-based tool for generating and updating reports on host and port statistics.
+   - A Python-based tool to generate and update reports on host and port statistics.
 
 3. **Embedded Interface Protocol Implementations**
-   - Implemented and tested communication protocols (I2C, SPI, UART) in embedded systems.
+   - Implementation of communication protocols like I2C, SPI, and UART in embedded systems.
 
-4. **Custom ARM Cortex-M Development**
-   - Developed firmware for ARM Cortex-M microcontrollers with a focus on low-power applications.
+4. **Custom ARM Cortex-M Firmware**
+   - Developed firmware for ARM Cortex-M microcontrollers, focusing on low-power applications.
+
+---
 
 ## 📬 Let's Connect
-- **Email:** balainvlsi@gmail.com
-- **LinkedIn:** [Balamurali Mani](https://www.linkedin.com/in/balamurali-mani-1243b7170/)
+📧 **Email:** balainvlsi@gmail.com  
+🔗 **LinkedIn:** [Balamurali Mani](https://www.linkedin.com/in/balamurali-mani-1243b7170/)
 
-Feel free to reach out if you have questions, collaboration ideas, or just want to connect!
+Feel free to reach out if you have questions, collaboration ideas, or want to connect professionally!
+
+---
 
 ## 📊 GitHub Stats
 ![Balamurali Mani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balamuralimani&show_icons=true&theme=radical)
