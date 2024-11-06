@@ -35,7 +35,7 @@ Are you new to embedded systems? Check out my [Embedded C Tutorial Repository](h
 
 This tutorial is designed for beginners and intermediate learners, covering essential concepts, coding techniques, and real-world examples to help you build a solid foundation in Embedded C.
 
-![Embedded C Tutorial Banner](https://img.shields.io/badge/Embedded%20C%20Tutorial-Learn%20Fundamentals%20to%20Advanced-blue?style=for-the-badge&logo=c&logoColor=white)
+![Checkout the Embedded Tutorial here ->](https://img.shields.io/badge/Embedded%20C%20Tutorial-Learn%20Fundamentals%20to%20Advanced-blue?style=for-the-badge&logo=c&logoColor=white)[(https://www.linkedin.com/in/balamurali-mani-1243b7170/)](https://github.com/Balamuralimani/Embedded_C_Tutorial)
 
 ### Course Highlights
 - **Introduction to Embedded C**: Understand the language's fundamentals and its role in embedded systems.
